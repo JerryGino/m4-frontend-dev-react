@@ -2,7 +2,7 @@
     max-width: 800px;
     margin: 2rem auto;
     padding: 1.5rem;
-    background: #ffffffea;
+    background: #ffc4c4ea;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
@@ -60,4 +60,7 @@
   .blogPostReadTime{
     font-size: 1rem;
     padding-left: 7px;
+  }
+  .BlogPostActions{
+   color: #242424; 
   }
