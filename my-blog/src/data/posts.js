@@ -2,7 +2,8 @@ export const posts = [
   {
     id: 1,
     title: "I 'heard' that audio is pretty cool!",
-    content: "Its cool its fun it helps round out the world...",
+    content:
+      "Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...Its cool its fun it helps round out the world...",
     author: "Jerry Ginocchi",
     date: "2024-11-12",
     readTime: 5,
