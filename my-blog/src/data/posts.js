@@ -7,6 +7,8 @@ export const posts = [
     author: "Jerry Ginocchi",
     date: "2024-11-12",
     readTime: 5,
+    category: "audio",
+    tags: ["audio", "passion"],
   },
   {
     id: 2,
@@ -15,6 +17,8 @@ export const posts = [
     author: "ask Eunice",
     date: "2024-03-16",
     readTime: 3,
+    category: "help",
+    tags: ["ask Eunice", "advice"],
   },
   {
     id: 3,
@@ -24,6 +28,8 @@ export const posts = [
     author: "Jerry Ginocchi",
     date: "2024-11-12",
     readTime: 5,
+    category: "funny",
+    tags: ["joy", "love"],
   },
   {
     id: 4,
@@ -32,6 +38,8 @@ export const posts = [
     author: "ask Eunice",
     date: "2024-03-16",
     readTime: 3,
+    category: "help",
+    tags: ["ask Eunice", "advice"],
   },
   // Add 1-2 more sample posts
 ];

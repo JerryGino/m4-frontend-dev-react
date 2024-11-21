@@ -51,8 +51,8 @@ function BlogPost({ id, title, content, author, date }) {
 }
 
 BlogPost.propTypes = {
-  //id: PropTypes.number.isRequired,
-    title: PropTypes.string.required,
+  id: PropTypes.number.required,
+   title: PropTypes.string.required,
   content: PropTypes.string.required,
   author: PropTypes.string.required,
   date: PropTypes.string.required,
