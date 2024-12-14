@@ -46,3 +46,8 @@ The first lesson was learned even before the coding started. File managment and 
 ## My Blog formatted for a Galaxy A51/71
 
 ![My Work For Assignment 1 the second one](src/assets/pictures/Assignment_1_mobile.png)
+
+## search and Pagination
+
+![My work For the 4th assingment](src/assets/pictures/Assignment_4_1.png)
+![the other screenshot](src/assets/pictures/Assignment_4_2.png)
